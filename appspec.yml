@@ -1,6 +1,6 @@
 files: 
-  - destination: /home/ubuntu/qpp/mod
-    source: server/mod
+  - destination: /home/ubuntu/qpp/
+    source: src
 hooks:
 os: linux
 version: 0.0
